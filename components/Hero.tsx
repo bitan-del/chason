@@ -118,7 +118,7 @@ export const Hero: React.FC = () => {
               className="text-center text-3xl md:text-4xl lg:text-4xl xl:text-5xl text-white tracking-tight leading-[1.2] whitespace-normal lg:whitespace-nowrap"
               style={{
                 fontFamily: 'Helvetica Neue, sans-serif',
-                fontWeight: 100,
+                fontWeight: 300,
                 fontStyle: 'normal'
               }}
             >
@@ -136,7 +136,7 @@ export const Hero: React.FC = () => {
               className="text-center text-3xl md:text-4xl lg:text-4xl xl:text-5xl text-white tracking-tight leading-[1.2] opacity-90 whitespace-normal lg:whitespace-nowrap"
               style={{
                 fontFamily: 'Helvetica Neue, sans-serif',
-                fontWeight: 100,
+                fontWeight: 300,
                 fontStyle: 'normal'
               }}
             >
