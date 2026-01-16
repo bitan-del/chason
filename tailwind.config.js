@@ -14,10 +14,10 @@ export default {
                 secondary: '#888888',
             },
             fontFamily: {
-                serif: ['Helvetica Neue', 'sans-serif'],
-                sans: ['Helvetica Neue', 'sans-serif'],
-                ogg: ['Helvetica Neue', 'sans-serif'],
-                poppins: ['Helvetica Neue', 'sans-serif'],
+                serif: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'],
+                sans: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'],
+                ogg: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'],
+                poppins: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'],
             },
             animation: {
                 'bounce-slow': 'bounce 3s infinite',
