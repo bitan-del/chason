@@ -24,7 +24,7 @@ function App() {
     return (
       <div className="fixed inset-0 bg-[#050505] flex items-center justify-center z-[100]">
         <div className="text-center">
-          <h1 className="text-4xl md:text-6xl font-serif font-medium tracking-tight animate-pulse text-white mb-6">chason.io</h1>
+          <h1 className="text-4xl md:text-6xl font-sans font-light tracking-tight animate-pulse text-white mb-6">chason.io</h1>
           <div className="w-32 h-[1px] bg-white/20 mx-auto overflow-hidden">
             <div className="h-full bg-white w-full animate-width origin-left"></div>
           </div>
