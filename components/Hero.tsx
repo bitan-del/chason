@@ -78,6 +78,8 @@ export const Hero: React.FC = () => {
         loop
         muted
         playsInline
+        preload="auto"
+        poster="https://d1apnj7dqboaex.cloudfront.net/BH-BG-HERO.jpg"
         className="absolute inset-0 w-full h-full object-cover z-0 opacity-60"
       >
         <source src={VIDEO_SRC} type="video/mp4" />
